@@ -1,5 +1,11 @@
 # pupmap
-## cs546 project
+## Team Project –cs546 project
+This repository is forked from the original team repository created by @ShashaAlvares.
+
+My contributions include:
+- Ratings feature (routes, validation, UI)
+- MongoDB schema & data handling
+- Client-side JavaScript and XSS prevention
 
 ## authors
 - Aeslyn Vlahos (gh: aeslyn-is-here)
